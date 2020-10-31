@@ -10,20 +10,20 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "1323584648:AAEbJ_YWhdFUyzwVb-RNm2mn8aPjenkTrJo"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "1870013"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "89100093ce80a28206a7444c3a904974"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
       "value": "999197022 939425014"
     },
     "SUPPORT_CHAT_LINK": {
-      "description": "Support Chat link in valid url format."
+      "description": "https://github.com/dev-anaz-1."
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
